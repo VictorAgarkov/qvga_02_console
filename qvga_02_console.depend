@@ -1,0 +1,514 @@
+# depslib dependency file v1.0
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\misc.c
+	"misc.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\misc.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487363948 d:\vitek\work\arm\em-blocks\qvga_02_console\inc\system_stm32f10x.h
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1487363949 d:\vitek\work\arm\em-blocks\qvga_02_console\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1487363949 source:d:\vitek\work\arm\em-blocks\qvga_02_console\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1487341046 source:d:\vitek\work\arm\em-blocks\qvga_02_console\src\lcd.c
+	<stm32f10x.h>
+	"lcd.h"
+
+1487314428 d:\vitek\work\arm\em-blocks\qvga_02_console\src\lcd.h
+	<stdint.h>
+
+1487447203 source:d:\vitek\work\arm\em-blocks\qvga_02_console\src\main.c
+	"stm32f10x_conf.h"
+	<stdlib.h>
+	<stdio.h>
+	"lcd.h"
+	"cdisp.h"
+	"gpio_mode.h"
+
+1487447285 d:\vitek\work\arm\em-blocks\qvga_02_console\src\cdisp.h
+	"font.h"
+
+1487077552 d:\vitek\work\arm\em-blocks\qvga_02_console\src\font.h
+
+1487363948 source:d:\vitek\work\arm\em-blocks\qvga_02_console\src\startup_stm32f10x_md.s
+
+1487446804 source:d:\vitek\work\arm\em-blocks\qvga_02_console\src\cdisp.c
+	<string.h>
+	"cdisp.h"
+	"lcd.h"
+
+1487363948 source:d:\vitek\work\arm\em-blocks\qvga_02_console\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1487074970 source:d:\vitek\work\arm\em-blocks\qvga_02_console\src\verdana_10_1_255.c
+	"font.h"
+
+1487075024 source:d:\vitek\work\arm\em-blocks\qvga_02_console\src\verdana_12_1_255.c
+	"font.h"
+
+1487074996 source:d:\vitek\work\arm\em-blocks\qvga_02_console\src\verdana_16_1_255.c
+	"font.h"
+
+1476887635 source:d:\vitek\work\arm\em-blocks\qvga_02_console\src\gpio_mode.c
+	"gpio_mode.h"
+
+1487365237 d:\vitek\work\arm\em-blocks\qvga_02_console\src\gpio_mode.h
+	"stm32f10x_conf.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\misc.c
+	"misc.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\misc.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\inc\system_stm32f10x.h
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1487363950 d:\vitek\work\arm\hlam\qvga_02_console\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1488289144 source:d:\vitek\work\arm\hlam\qvga_02_console\src\cdisp.c
+	<string.h>
+	"cdisp.h"
+	"lcd.h"
+
+1488281409 d:\vitek\work\arm\hlam\qvga_02_console\src\cdisp.h
+	"font.h"
+	"point_types.h"
+
+1487077552 d:\vitek\work\arm\hlam\qvga_02_console\src\font.h
+
+1487600554 d:\vitek\work\arm\hlam\qvga_02_console\src\lcd.h
+	<stdint.h>
+
+1476887636 source:d:\vitek\work\arm\hlam\qvga_02_console\src\gpio_mode.c
+	"gpio_mode.h"
+
+1488463544 d:\vitek\work\arm\hlam\qvga_02_console\src\gpio_mode.h
+	"stm32f10x_conf.h"
+
+1487600744 source:d:\vitek\work\arm\hlam\qvga_02_console\src\lcd.c
+	<stm32f10x.h>
+	"lcd.h"
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\src\startup_stm32f10x_md.s
+
+1487363950 source:d:\vitek\work\arm\hlam\qvga_02_console\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1487074970 source:d:\vitek\work\arm\hlam\qvga_02_console\src\verdana_10_1_255.c
+	"font.h"
+
+1487075024 source:d:\vitek\work\arm\hlam\qvga_02_console\src\verdana_12_1_255.c
+	"font.h"
+
+1487074996 source:d:\vitek\work\arm\hlam\qvga_02_console\src\verdana_16_1_255.c
+	"font.h"
+
+1488460997 source:d:\vitek\work\arm\hlam\qvga_02_console\src\main.c
+	"stm32f10x_conf.h"
+	<stdlib.h>
+	<stdio.h>
+	"lcd.h"
+	"cdisp.h"
+	"gpio_mode.h"
+	"xpt2046.h"
+
+1488376672 source:d:\vitek\work\arm\hlam\qvga_02_console\src\xpt2046.c
+	"stm32f10x_conf.h"
+	"gpio_mode.h"
+	"xpt2046.h"
+
+1488372414 d:\vitek\work\arm\hlam\qvga_02_console\src\xpt2046.h
+	"point_types.h"
+
+1488128878 d:\vitek\work\arm\hlam\qvga_02_console\src\point_types.h
+
+1488462532 source:d:\vitek\work\arm\hlam\qvga_02_console\src\encoder.c
+	"encoder.h"
+
+1488461084 d:\vitek\work\arm\hlam\qvga_02_console\src\encoder.h
+	"stm32f10x_conf.h"
+
+1488547776 source:d:\vitek\work\arm\hlam\qvga_02_console\src\menu.c
+	"menu.h"
+	<stdlib.h>
+
+1488547725 d:\vitek\work\arm\hlam\qvga_02_console\src\menu.h
+	<stdint.h>
+
